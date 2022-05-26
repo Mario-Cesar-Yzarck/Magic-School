@@ -35,3 +35,13 @@ Haverá 10 testes para serem realizados e ao completar todos o personagem se ‘
     9-  Masmorra simulada: Limpar áreas de masmorra, matando monstros, recolhendo tesouros e explorando ruinas é uma atividade recorrente para magos em geral. Desta forma este teste visa replicar essa experiência. 10 alunos são mandados a uma ilha deserta que tem uma masmorra em algum lugar. O objetivo é chegar ao final e atravessar o portal que leva de volta para a escola. Há alguns testes extras que são: levar a cabeça do boss final, encontrar os pertences de Oliver Stone (um aluno que morreu na ilha há alguns anos) e coletar 10 pedras elementais (itens usado para fazer equipamentos). Dificuldade: Alta. Recompensas: Atravessar o portal = 2.000 peças de ouro, levar a cabeça do boss = Peitoral de Aço (Defesa +XX, melhor item de defesa disponível), levar os pertences de Oliver = 1.000, 2 poções de VidaMana e Amuleto da Resistência Mágica (Defesa Mágica +XX) e coletar as 10 pedras = Núcleo de Mana (item que ao ser consumido aumenta o nível do mago em +1);
     
     10-  Desafie um professor: Escolha qual professor quer enfrentar. Se você vencer sera considerado um formando e finaliza o jogo. Se perder poderá escolher outro professor, se perder para todos o jogo acaba com você sendo convidado a trabalhar na escola como monitor, mas sem nunca se formar. Dificuldade: Alta.
+    
+
+Seleção de qual especialização seguir.
+Logo nas primeiras cenas o jogador será levado à sala do diretor que vai orientá-lo a colocar as mãos sobre um orbe mágico e responder 3 perguntas com sinceridade. Após isso o orbe vai indicar qual a especialização do mago aluno.
+As perguntas com as respostas e as opções de resposta são as seguintes:
+- Em uma situação de combate você prefere: Atacar, Proteger ou dar Suporte? Atacar, Proteger, Suporte;
+- Um aluno rival humilha você verbalmente frente a sua turma, o que você faz: Supera o rival em tudo que for possível através do ESFORÇO ou usa INTIMIDAÇÃO para colocá-lo no devido lugar ou agride ele com VIOLÊNCIA física para que saiba quem manda na sala ou informa o ocorrido a alguma AUTORIDADE para que as devidas medidas sejam tomadas? Esforço, Intimidação, Violência, Autoridade;
+- Após superar um desafio qual seria o prêmio ideal para você: Muito Ouro, algum Equipamento útil, Habilidade que o favoreça no futuro ou aumentar bastante sua Fama? Ouro, Equipamento, Habilidade, Fama.
+
+
