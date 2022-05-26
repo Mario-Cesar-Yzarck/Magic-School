@@ -40,8 +40,8 @@ Haverá 10 testes para serem realizados e ao completar todos o personagem se ‘
 Seleção de qual especialização seguir.
 Logo nas primeiras cenas o jogador será levado à sala do diretor que vai orientá-lo a colocar as mãos sobre um orbe mágico e responder 3 perguntas com sinceridade. Após isso o orbe vai indicar qual a especialização do mago aluno.
 As perguntas com as respostas e as opções de resposta são as seguintes:
-- Em uma situação de combate você prefere: Atacar, Proteger ou dar Suporte? Atacar, Proteger, Suporte;
+- Em uma situação de combate você prefere: ATACAR, PROTEGER ou dar SUPORTE? Atacar, Proteger, Suporte;
 - Um aluno rival humilha você verbalmente frente a sua turma, o que você faz: Supera o rival em tudo que for possível através do ESFORÇO ou usa INTIMIDAÇÃO para colocá-lo no devido lugar ou agride ele com VIOLÊNCIA física para que saiba quem manda na sala ou informa o ocorrido a alguma AUTORIDADE para que as devidas medidas sejam tomadas? Esforço, Intimidação, Violência, Autoridade;
-- Após superar um desafio qual seria o prêmio ideal para você: Muito Ouro, algum Equipamento útil, Habilidade que o favoreça no futuro ou aumentar bastante sua Fama? Ouro, Equipamento, Habilidade, Fama.
+- Após superar um desafio qual seria o prêmio ideal para você: Muito OURO, algum EQUIPAMENTO útil, HABILIDADE que o favoreça no futuro ou aumentar bastante sua FAMA? Ouro, Equipamento, Habilidade, Fama.
 
 
