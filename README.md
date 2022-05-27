@@ -44,4 +44,5 @@ As perguntas com as respostas e as opções de resposta são as seguintes:
 - Um aluno rival humilha você verbalmente frente a sua turma, o que você faz: Supera o rival em tudo que for possível através do ESFORÇO ou usa INTIMIDAÇÃO para colocá-lo no devido lugar ou agride ele com VIOLÊNCIA física para que saiba quem manda na sala ou informa o ocorrido a alguma AUTORIDADE para que as devidas medidas sejam tomadas? Esforço, Intimidação, Violência, Autoridade;
 - Após superar um desafio qual seria o prêmio ideal para você: Muito OURO, algum EQUIPAMENTO útil, HABILIDADE que o favoreça no futuro ou aumentar bastante sua FAMA? Ouro, Equipamento, Habilidade, Fama.
 
+(o método para determinar a especialização escolhida é determinado pelas respostas. Cada resposta ativa um switch então é feita uma verificação da combinação escolhida que por sua vez diz qual a especialização)
 
